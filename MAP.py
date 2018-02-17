@@ -1,5 +1,5 @@
 import gmplot
-from ClaserMap import mymap
+from ClasterMap import mymap
 from TEXT import Locate_search
 import sqlite3
 #генерація карти
