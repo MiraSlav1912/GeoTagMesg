@@ -1,7 +1,6 @@
 import sqlite3
 import re
 from itertools import groupby
-import pymorphy2
 from time import time
 
 class Locate_search:
